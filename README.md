@@ -9,16 +9,11 @@ Open index.html on browser
 ````
 
 #### View Transitions
-
-````
-https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name
-
-````
-
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name](https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name)
 
 #### Supported Browsers
+- [https://caniuse.com/?search=view-transition](https://caniuse.com/?search=view-transition)
 
-````
-https://caniuse.com/?search=view-transition
+#### Data origin
+- [https://dragonball.guru/](https://dragonball.guru/)
 
-````
